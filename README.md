@@ -8,6 +8,6 @@
 
 ## 보일러 플레이트
 ### SceneDelegate
-- [코드로 시작 뷰컨트롤러 지정하기](https://github.com/AKAPUCH/TIL/tree/main/boilerplate/UINavigationController)
+- [코드로 시작 뷰컨트롤러 지정하기](https://github.com/AKAPUCH/TIL/tree/main/BoilerPlate/sceneDelegate)
 ### UITableView
-- [기본 셀 다루기](https://github.com/AKAPUCH/TIL/tree/main/boilerplate/UITableView)
+- [셀에 두 줄로 텍스트 표시](https://github.com/AKAPUCH/TIL/tree/main/BoilerPlate/UITableView)
